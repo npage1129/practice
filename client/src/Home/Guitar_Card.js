@@ -5,10 +5,12 @@ function Guitar_Card(){
     return(
         <div class="container text-center">
     <div class="row row-cols-4">
-    <div class="col-sm">Column</div>
-    <div class="col-sm">Column</div>
-    <div class="col-sm">Column</div>
-    <div class="col-sm">Column</div>
+    <div class="col-sm" >
+        <img src="http://placehold.it/"/>
+    </div>
+    <div class="col-sm"> <img src="http://placehold.it/"/></div>
+    <div class="col-sm"> <img src="http://placehold.it/"/></div>
+    <div class="col-sm"> <img src="http://placehold.it/"/></div>
     </div>
 </div>
     )
